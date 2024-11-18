@@ -2,4 +2,4 @@
 
 batak
 
-<img src="https://prod-printler-front-as.azurewebsites.net/media/photo/196641.jpg?mode=crop&width=638&height=900&rnd=0.0.1">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAst1Xu3tHjPmGLj-Kuc2Bbtoyp963wRCIQ_pNzXjrXo_5nXLqLM9o4Uy57HVEW0P9sdQ&usqp=CAU">
